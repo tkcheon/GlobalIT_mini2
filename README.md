@@ -68,7 +68,6 @@ Final Project 개발 기간<br><br>
 <br>
 <br>
 
-프로젝트 Demo : 43.201.17.45:8080
 ## 팀원 소개
 
 |팀장| 팀원 1     | 팀원 2      | 팀원 3      | 팀원 4      |
@@ -81,22 +80,8 @@ Final Project 개발 기간<br><br>
 <br>
 
 ## 클라우드 ERD (권한 필요)
-https://www.erdcloud.com/d/cd5tCqegTyFd9srKc
 
 ![miniproject2_ERD](https://github.com/user-attachments/assets/1c382119-6726-4fa4-86e0-719ebe35ba74)
-<br>
-<br>
-<br>
-<br>
-## Git 브랜치 전략
-![269341571-ceeda2bb-cc43-441d-aadb-a373d2e53c33](https://github.com/user-attachments/assets/5eb190ce-eff2-47df-94ad-1a056969cd55)
-
-저장소를 효과적으로 활용하기 위해 Github-Flow 전략 브랜치를 생성한다.<br><br>
-
-1. Main branch를 기준으로 기능별 branch 생성<br><br>
-2. 기능별 branch는 다른 팀원과 중복이 없도록 개발 전 사전에 협의 및 회의 시간에 결정 <br><br>
-3. 만약, 기능 개발 시 중간에 겹치는 부분이 있는 경우에는 한 명의 branch를 기준으로 merge 이후 main에 PR <br><br>
-Main : 프로덕션 코드. 항상 Main을 기준으로 branch 생성<br>
 <br>
 <br>
 <br>
@@ -114,16 +99,19 @@ Main : 프로덕션 코드. 항상 Main을 기준으로 branch 생성<br>
 <br>
 <br>
 
-### 설치
+### 설치 및 업로드 
 
 ```bash
-1. 파일을 다운받을 디렉토리로 이동
-ex) cd java_test
+1. 파일을 다운받을 디렉토리로 이동 
 
 2. 해당 github clone
-https://github.com/tkcheon/GlobalIT_Final.git
+git clone https://github.com/tkcheon/GlobalIT_Final.git
 
-3. 실행 
+3. vscode 실행
+4. git init
+5. git branch -M main
+6. git commit -m "project_upload"
+7. git push 
 
 ```
 
