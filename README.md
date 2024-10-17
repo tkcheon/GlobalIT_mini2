@@ -27,7 +27,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.3-6DB33F?logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-9.0-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.8.6-C71A36?logo=apachemaven&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?logo=mybatis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
