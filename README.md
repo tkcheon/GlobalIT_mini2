@@ -1,5 +1,5 @@
 # FurryFriends
-![로고](https://github.com/user-attachments/assets/1a7b8e27-442c-442d-a127-96b2b3d4ace8)
+![logo](https://github.com/user-attachments/assets/a7861377-a95a-4db5-a132-d978e57624c5)
 <br>
 <br>
 <br>
