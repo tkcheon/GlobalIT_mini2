@@ -49,6 +49,15 @@
 <br>
 <br>
 
+프로젝트 제목/주제
+Demo 링크
+제작 기간 & 참여 인원
+사용한 기술 (기술 스택)
+(필요한 경우) ERD
+핵심 기능 (코드로 보여주거나 코드 링크)
+트러블슈팅 경험 / 자랑하고 싶은 코드
+회고 / 느낀 점
+
 ## 개발 정보
 global IT(글로벌 아이티)<br>
 교육 과정 : 풀스택 프레임워크(자바,스프링)기반 데이터 융합SW개발자 과정 (7회차) 1조 <br>
@@ -60,6 +69,11 @@ global IT(글로벌 아이티)<br>
 <br>
 mini2 Project 개발 기간<br><br>
 총 개발 기간 : 2024.07.25 ~ 2024.08.02<br><br>
+프로젝트 내 역할 : 게시판 CURD, 답변 CRUD, 댓글 CRUD <br><br>
+회고 : 게시글 하단 댓글 부분을 Ajax를 이용하여 비동기 방식으로 개발하였는데 Ajax를 제대로 써본 것이 이번이 처음이라서 <br>
+Ajax에 동작 방식 및 뷰단에 겹치는 부분에 대한 고려부분을 하지 못해 많은 시간을 소모했지만 완성했을 때는 너무 뿌듯했고 앞으로 Ajax를 더 잘 활용해야겠다는 생각이 들었다. <br><br>
+또한, 그 동안 배운 기술을 다시 재정의하며 한층 더 이해할 수 있어서 좋은 경험이었다. <br><br>
+
 특이사항 : Oracle 9.0 버전을 사용한 이유는 이미지 업로드를 위한 File 함수가 Javax 기반이기 때문에 <br><br>
 <br>
 <br>
@@ -297,7 +311,10 @@ git clone https://github.com/tkcheon/GlobalIT_Final.git
 ```
 </details>
 
+
+
+
 ## 발표자료 
-[miniproject 2차.pptx](https://github.com/user-attachments/files/17416358/miniproject.2.pptx)
+<iframe src="https://1drv.ms/p/c/0c7d9b79476a227c/IQQOPU8fOhHYS7U2pdynKiZEAflbHxQsgR72OhnSMiJrBW4" width="402" height="327" frameborder="0" scrolling="no"></iframe>
 
 
