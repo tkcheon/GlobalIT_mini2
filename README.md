@@ -296,3 +296,6 @@ git clone https://github.com/tkcheon/GlobalIT_Final.git
  ┗ 📜.DS_Store
 </details>
 ```
+
+### 발표자료
+<iframe src="https://1drv.ms/p/c/0c7d9b79476a227c/IQQOPU8fOhHYS7U2pdynKiZEAflbHxQsgR72OhnSMiJrBW4" width="402" height="327" frameborder="0" scrolling="no"></iframe>
