@@ -60,6 +60,7 @@ global IT(글로벌 아이티)<br>
 <br>
 mini2 Project 개발 기간<br><br>
 총 개발 기간 : 2024.07.25 ~ 2024.08.02<br><br>
+특이사항 : Oracle 9.0 버전을 사용한 이유는 이미지 업로드를 위한 File 함수가 Javax 기반이기 때문에 <br><br>
 <br>
 <br>
 <br>
