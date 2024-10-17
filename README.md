@@ -61,9 +61,8 @@ global IT(글로벌 아이티)<br>
 주제 선정 이유 : 반려견을 키우는 입장에서 반려견이 입장 가능한 곳, 반려견을 위한 곳, 그런 부분에 대한 정보를  <br><br>
 <br>
 <br>
-Final Project 개발 기간<br><br>
+mini2 Project 개발 기간<br><br>
 총 개발 기간 : 2024.07.25 ~ 2024.08.02<br><br>
-<img width="1355" alt="스크린샷 2024-10-17 오후 2 04 01" src="https://github.com/user-attachments/assets/1e52dc0c-8909-4160-9f40-2ff1d95296d4">
 <br>
 <br>
 <br>
@@ -89,12 +88,7 @@ Final Project 개발 기간<br><br>
 
 ## 사용 방법
 1. 파일을 다운 받는다.<br>
-2. VSCode로 실행을 한다.<br>
-3. MySQL을 실행하여 HanIepManSQL.sql을 참고하여 테이블을 등록한다.<br>
-4. DB 연결 설정을 본인 DB에 맞게 변경해준다. <br>
-5. kakaomap 사용을 위해 <a href="http://developers.kakao.com/">카카오 개발자 사이트</a>에서 api를 발급 받는다.<br>
-6. kakaopay 결제 기능을 위해 <a href="https://portone.io/korea/ko">아임포트 사이트</a>에서 api를 발급 받는다.(https://developers.portone.io/opi/ko/integration/ready/readme?v=v2)<br>
-7. application.property 에서 imp.api.key랑 imp.api.secretkey, kakao.api.key를 작성한다.<br>
+2. Eclips로 실행.<br>
 <br>
 <br>
 <br>
