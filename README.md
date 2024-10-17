@@ -46,7 +46,7 @@
 
 ### 기타
 
-![ERDCloud](https://img.shields.io/badge/ERDCloud-00C7B7?logoColor=white)
+![miniproject2_ERD](https://github.com/user-attachments/assets/1c382119-6726-4fa4-86e0-719ebe35ba74)
 <br>
 <br>
 <br>
