@@ -45,8 +45,8 @@
 
 
 ### 기타
+![ERDCloud](https://img.shields.io/badge/ERDCloud-00C7B7?logoColor=white)
 
-![miniproject2_ERD](https://github.com/user-attachments/assets/1c382119-6726-4fa4-86e0-719ebe35ba74)
 <br>
 <br>
 <br>
@@ -57,12 +57,12 @@ global IT(글로벌 아이티)<br>
 교육 과정 : 풀스택 프레임워크(자바,스프링)기반 데이터 융합SW개발자 과정 (7회차) 1조 <br>
 교육 기간 : 2024.04.04 ~ 2024.10.07<br>
 <br>
-파이널 프로젝트 주제 : 상품 자동 주문 및 딜리버리 관리 웹 서비스 시스템<br><br>
-주제 선정 이유 : 쇼핑몰과 상품 자동 주문 딜리버리 시스템의 2가지 주제 중에 좀 더 재미있고 큰 프로젝트가 자동 주문 딜리버리 시스템이라 <br><br>
-생각되었기 때문에 해당 주제를 선정<br>
+파이널 프로젝트 주제 : 반려견 종합 정보 시스템 <br><br>
+주제 선정 이유 : 반려견을 키우는 입장에서 반려견이 입장 가능한 곳, 반려견을 위한 곳, 그런 부분에 대한 정보를  <br><br>
+<br>
 <br>
 Final Project 개발 기간<br><br>
-총 개발 기간 : 2024.08.17 ~ 2024.10.04<br><br>
+총 개발 기간 : 2024.07.25 ~ 2024.08.02<br><br>
 <img width="1355" alt="스크린샷 2024-10-17 오후 2 04 01" src="https://github.com/user-attachments/assets/1e52dc0c-8909-4160-9f40-2ff1d95296d4">
 <br>
 <br>
@@ -83,7 +83,7 @@ Final Project 개발 기간<br><br>
 ## 클라우드 ERD (권한 필요)
 https://www.erdcloud.com/d/cd5tCqegTyFd9srKc
 
-![{07F6DE08-8897-4C8D-979A-62787C91FE60}](https://github.com/user-attachments/assets/84a0c041-4d4a-470c-b0aa-d1e46130133c)
+![miniproject2_ERD](https://github.com/user-attachments/assets/1c382119-6726-4fa4-86e0-719ebe35ba74)
 <br>
 <br>
 <br>
